@@ -9,3 +9,4 @@
 
 # 실행실습 및 이론
 1. STT and TTS.
+2. 챗 봇(Chat Bot)
